@@ -12,17 +12,16 @@ redirect_from:
 * **Ph.D.**  *<font size="3">&nbsp;&nbsp;&nbsp; CentraleSupélec, Université Paris-Saclay, France</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;Oct. 2016 - Oct. 2019</font> 
   * [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/en/)
   * Subject: [Feedback exponential stabilization of open quantum systems undergoing continuous-time measurements](https://theses.hal.science/tel-02984439/document)
-  * Supervisor: [Paolo Mason](https://l2s.centralesupelec.fr/en/u/mason-paolo), Co-supervisor:[Nina Amini](https://l2s.centralesupelec.fr/en/u/amini-nina-hadis/)
+  * Supervisor: [Paolo Mason](https://l2s.centralesupelec.fr/en/u/mason-paolo), Co-supervisor: [Nina H. Amini](https://l2s.centralesupelec.fr/en/u/amini-nina-hadis/)
   * Committee members of the thesis defense:
-- Pierre Rouchon (Professor, Ecole des Mines de Paris) - President of committee
-- Hideo Mabuchi (Professor, Stanford University) - Thesis reviewer
-- John Gough (Professor, Aberystwyth University) - Thesis reviewer
-- Michel Bauer (Professor, CEA) - Examination committee member
-- Ugo Boscain (Senior researcher, CNRS) - Examination committee member
-- Jean-Michel Coron (Professor, Université Pierre et Marie Curie) - Examination committee member
-- Clément Pellegrini (Associate Professor, Université Paul Sabatier) - Examination committee member
-- Nina H. Amini (Junior researcher, CNRS) - Co-supervisor
-- Paolo Mason (Junior researcher, CNRS) - Supervisor
+    + Pierre Rouchon (Professor, Ecole des Mines de Paris) - President of committee
+    + Hideo Mabuchi (Professor, Stanford University) - Thesis reviewer
+    + John Gough (Professor, Aberystwyth University) - Thesis reviewer
+    + Michel Bauer (Professor, CEA) - Examination committee member
+    + Ugo Boscain (Senior researcher, CNRS) - Examination committee member
+    + Jean-Michel Coron (Professor, Université Pierre et Marie Curie) - Examination committee member
+    + Clément Pellegrini (Associate Professor, Université Paul Sabatier) - Examination committee member
+
 * **Master 2** *<font size="3">&nbsp;&nbsp;&nbsp;CentraleSupélec, Université Paris-Sud, Université Paris-Saclay, France</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;Sept. 2017 - Oct. 2018</font> 
    * [Mathematics and applications (Optimization)](https://www.imo.universite-paris-saclay.fr/fr/students/master/mathematiques-et-applications/m2/optimization/) <font size="3">(Representative of graduates)</font>
    * Director: [Prof. Filippo Santambrogio](https://scholar.google.fr/citations?user=T8GAoYMAAAAJ&hl=en)
