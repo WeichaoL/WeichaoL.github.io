@@ -9,11 +9,11 @@ redirect_from:
 
 
 # Education
-* **Ph.D.**  *<font size="3">&nbsp;&nbsp;&nbsp;CentraleSupélec, Université Paris-Saclay, France</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;Jan. 2019 - Dec. 2022</font> 
-  * [Mathematics and Computer Science Laboratory for Complexity and Systems (MICS)](https://www.centralesupelec.fr/en/mathematics-and-computer-science-laboratory-complexity-and-systems-mics-ea-4037)
-  * Subject: Learning Representations for Optimizing Recruiting Processes  (supported by Randstad corporate [research chair](https://www.centralesupelec.fr/fr/randstad-et-centralesupelec-sassocient-pour-creer-une-chaire-sur-lintelligence-artificielle-et-le) in collaboration with CentraleSupélec)
-  * Supervisors: [Prof. Céline Hudelot](https://scholar.google.fr/citations?user=gFlAh6MAAAAJ&hl=fr), [Prof. Paul-Henry Cournède](https://scholar.google.fr/citations?user=LGr1sroAAAAJ&hl=fr)
-* **Master 2** *<font size="3">&nbsp;&nbsp;&nbsp;Université Paris-Sud, Université Paris-Saclay, France</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;Sept. 2017 - Oct. 2018</font> 
+* **Ph.D.**  *<font size="3">&nbsp;&nbsp;&nbsp; CentraleSupélec, Université Paris-Saclay, France</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;Oct. 2016 - Oct. 2019</font> 
+  * [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/en/)
+  * Subject: Feedback exponential stabilization of open quantum systems undergoing continuous-time measurements
+  * Supervisor: [Paolo Mason](https://l2s.centralesupelec.fr/en/u/mason-paolo), Co-supervisor:[Nina Amini](https://l2s.centralesupelec.fr/en/u/amini-nina-hadis/)
+* **Master 2** *<font size="3">&nbsp;&nbsp;&nbsp;CentraleSupélec, Université Paris-Sud, Université Paris-Saclay, France</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;Sept. 2017 - Oct. 2018</font> 
    * [Mathematics and applications (Optimization)](https://www.imo.universite-paris-saclay.fr/fr/students/master/mathematiques-et-applications/m2/optimization/) <font size="3">(Representative of graduates)</font>
    * Director: [Prof. Filippo Santambrogio](https://scholar.google.fr/citations?user=T8GAoYMAAAAJ&hl=en)
 
